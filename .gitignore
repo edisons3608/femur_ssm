@@ -1,3 +1,4 @@
 .DS_Store
 right_femur_downloads/
 aligned_meshes/
+.npz
